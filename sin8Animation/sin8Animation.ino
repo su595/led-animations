@@ -1,5 +1,7 @@
 #include <FastLED.h>
 
+// work in progress, for now it's just an idea I had
+
 #define NUM_LEDS 144
 #define DATA_PIN 3
 #define DELAY_BETWEEN_STEPS 20
